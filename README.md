@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rüveyda Nur DAL</h1>
-<h3 align="center">Computer Engineer|I would like to continue to my carrier and improve myself in developing mobile apps and AI technologies.</h3>
+<h3 align="center">I would like to continue to my carrier and improve myself in developing mobile apps and AI technologies.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
